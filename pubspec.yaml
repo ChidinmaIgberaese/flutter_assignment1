@@ -1,0 +1,39 @@
+name: flutter_assignment1
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/asus_notebook_computer.jpg
+    - assets/images/a54.jpg
+    - assets/images/band.jpg
+    - assets/images/buds.png
+    - assets/images/mkb.jpg
+    - assets/images/mkb1.jpg
+    - assets/images/mkb2.jpg
+    - assets/images/s7 b.jpg
+    - assets/images/S7 G.jpg
+    - assets/images/s7 G.jpg
+    - assets/images/S7 R.jpg
+    - assets/images/s7.jpg
+    - assets/images/s8 1.jpg
+    - assets/images/s8.jpg
+    - assets/images/samsung-galaxy-a04e-3gb-64gb v.jpg
+    - assets/images/samsung-galaxy-a04e-3gb-64gb.jpg
